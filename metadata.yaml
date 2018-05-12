@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41638'
     url: http://www.gutenberg.org/2009/agents/41638
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42351#The-Cruise-of-a-Schooner
 gutenberg_issued: '2013-03-17'
 gutenberg_type: Text
 identifiers:
